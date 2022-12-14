@@ -1,0 +1,9 @@
+CDOT Mtn camera list
+
+CO 14 MP 063.65 EB Camera
+Cameron Pass West URL: https://cocam.carsprogram.org/Live_View/CO14061West.jpg?1671033780000
+Cameron Pass West URL: https://cocam.carsprogram.org/Live_View/CO14063West.jpg?1671033900000
+
+Cameron Pass East URL: https://cocam.carsprogram.org/Live_View/CO14063East.jpg?1671033780000
+
+
